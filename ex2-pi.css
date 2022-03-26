@@ -1,0 +1,22 @@
+#A {
+    background-color: rgb(200, 162, 200);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#B {
+    background-color: #ffcbdb;
+    height: 100%;
+    width: 250px;
+    border-style: groove;
+    border-color: red;
+    border-width: 20px;
+}
+
+#C {
+    background-color: aquamarine;
+    height: 88%;
+    width: 30%;
+}
